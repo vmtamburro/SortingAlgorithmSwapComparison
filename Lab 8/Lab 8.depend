@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1542072810 source:e:\lab 8\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+
